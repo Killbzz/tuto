@@ -1,8 +1,8 @@
-baseURL = "https://killbzz.github.io/infra/"
+baseURL = "https://killbzz.github.io/tuto/"
 languageCode = "fr-FR"
 languageName = "Français"
 title = "Tuto infra et DevOps"
-theme = "hugo-theme-learn"
+theme = "learn"
 
 [params]
   themeVariant = "green"
