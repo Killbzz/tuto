@@ -11,7 +11,7 @@ pre = ""
 Debian est une distibution linux composée de projet open sources et maintenu par l'organisation "Debian Project". Debian est une distribution "native", elle n'est issue d'aucune autre distrib, contrairement à Ubuntu qui elle est basée sur Debian.
 
 
-![Archi](https://killbzz.github.io/images/archi-simple.png)
+![Archi](https://killbzz.github.io/tuto/images/archi-simple.png)
 
 ## 
 23
