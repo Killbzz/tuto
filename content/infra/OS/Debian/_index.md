@@ -1,12 +1,12 @@
 +++
-title = "Debian"
+title = "Iptables"
 date = 2022-03-28T20:43:16+02:00
 weight = 5
 chapter = true
 pre = ""
 +++
 
-# Debian
+# Iptables
 
 Debian est une distibution linux composée de projet open sources et maintenu par l'organisation "Debian Project". Debian est une distribution "native", elle n'est issue d'aucune autre distrib, contrairement à Ubuntu qui elle est basée sur Debian.
 
