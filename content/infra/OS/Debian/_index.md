@@ -8,7 +8,7 @@ pre = ""
 
 # Iptables
 
-Debian est une distibution linux composée de projet open sources et maintenu par l'organisation "Debian Project". Debian est une distribution "native", elle n'est issue d'aucune autre distrib, contrairement à Ubuntu qui elle est basée sur Debian.
+Iptables est un logiciel linux qui sert à configurer les règles pare-feu de la machine. Il sera utile pour faire des firewall ainsi que pour assurer les sécurité des serveurs.
 
 
 ![Archi](https://killbzz.github.io/tuto/images/archi-simple.png)
